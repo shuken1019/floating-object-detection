@@ -1,0 +1,13 @@
+train: C:\Users\hongyoseb\Desktop\roboflow\train\images
+val: C:\Users\hongyoseb\Desktop\roboflow\valid\images
+test: C:\Users\hongyoseb\Desktop\roboflow\test\images
+
+nc: 3
+names: ['leaf', 'plastic', 'twig']
+
+roboflow:
+  workspace: mbc320hys
+  project: floating-matters-hwkii
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/mbc320hys/floating-matters-hwkii/dataset/3
